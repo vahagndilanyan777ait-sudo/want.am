@@ -51,4 +51,29 @@ document.querySelector('#app').innerHTML = `
              <div class="hover4"></div>
          </div>
     </div>
+
+    <div class="mas2">
+        <div class="card1">
+            <img class="meqena1" src="img/gruz.jpg" alt="">
+            <p class="meq1">Ստանդարտ և էքսպրես առաքում:</p>
+        </div>
+        <div class="card2">
+            <img class="caxik1" src="img/caxik.jpg" alt="">
+            <p class="cax1">Կփաթեթավորենք Ձեր նվերը:</p>
+        </div>
+        <div class="card3">
+            <img class="ban1" src="img/nver.png" alt="">
+            <p class="bann1">Չե՞ք կողմնորոշվում։ Ձեռք բերե՜ք մեր նվեր քարտերը։</p>
+        </div>
+        <div class="card4">
+            <img class="kuj1" src="img/poxanakum.png" alt="">
+            <p class="kujj1">Ապրանքի փոխանակում 14 օրվա ընթացքում։</p>
+        </div>
+    </div>
+
+
+    <div class="mas3">
+        <div class="noruyt">Նորույթ</div>
+        <div class="pahanjvac">Պահանջված</div>
+    </div>
 `
