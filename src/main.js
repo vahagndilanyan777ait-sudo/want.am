@@ -76,4 +76,128 @@ document.querySelector('#app').innerHTML = `
         <div class="noruyt">Նորույթ</div>
         <div class="pahanjvac">Պահանջված</div>
     </div>
+
+
+    <div class="apranqner">
+        <div class="ap1">
+            <img class="imgap1" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1NEdPob-1xcpxt_81DewxShwPBXXOUmtaB-MAIA7Jd5KsJ32c" >
+            <div class="ap1text1">Աստղադիտակ Sky-Watcher Dob 76/300 Heritage Black Diamond, սեղանադիր:</div>
+            <div class="ap1text2">Աստղադիտակներ</div>
+            <div class="ap1gin">69,900 ֏</div>
+            <div class="apavelacum">
+                <img class="apkarzina" src="img/apkarzina.png" >
+                <div class="textavelacum"> Ավելացնել</div>
+            </div>
+        </div>
+        <div class="ap2">
+            <img class="imgap2" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1PTb_jzO8HP7g--uLUXoywmz2BYNdRLe1qYMKeHzPvBo4KbzK" >
+            <div class="ap2text1">Աստղադիտակ Bresser Classic 60/900 EQ</div>
+            <div class="ap2text2">Աստղադիտակներ</div>
+            <div class="ap2gin">149,900 ֏</div>
+            <div class="apavelacum">
+                <img class="apkarzina" src="img/apkarzina.png" >
+                <div class="textavelacum"> Ավելացնել</div>
+            </div>
+        </div>
+        <div class="ap3">
+            <img class="imgap3" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ433rhR3ObiNOJRj0rPaapjer29OxJOl26sDT6NtemgMPrkZll" >
+            <div class="ap3text1">Աստղադիտակ ավտոմատ ուղղորդմամբ Levenhuk SkyMatic 135 GTA</div>
+            <div class="ap3text2">Աստղադիտակներ</div>
+            <div class="ap3gin">555,000 ֏</div>
+            <div class="apavelacum">
+                <img class="apkarzina" src="img/apkarzina.png" >
+                <div class="textavelacum"> Ավելացնել</div>
+            </div>
+        </div>
+        <div class="ap4">
+            <img class="imgap4" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBXRQ0VpPZDojrza5gcaxiMVDMjNMkaa8DlNTkdOjtK1vstgie" >
+            <div class="ap4text1">Հեռադիտակ Levenhuk New Atom 20x50</div>
+            <div class="ap4text2">Հեռադիտակներ</div>
+            <div class="ap4gin">45,500 ֏</div>
+            <div class="apavelacum">
+                <img class="apkarzina" src="img/apkarzina.png" >
+                <div class="textavelacum"> Ավելացնել</div>
+            </div>
+        </div>
+        <div class="ap5">
+            <img class="imgap5" src="https://want.am/wp-content/uploads/2025/02/9999.jpg" >
+            <div class="ap5text1">Հեռադիտակ Levenhuk New Atom 8x40</div>
+            <div class="ap5text2">Հեռադիտակներ</div>
+            <div class="ap5gin">40,500 ֏</div>
+            <div class="apavelacum">
+                <img class="apkarzina" src="img/apkarzina.png" >
+                <div class="textavelacum"> Ավելացնել</div>
+            </div>
+        </div>
+        <div class="ap6">
+            <img class="imgap6" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkDjqE1elOpnHXkCV0YM02zzeGr-qo5n8Bt2hfXNK5136svNgU" >
+            <div class="ap6text1">Շախմատային ժամաչափ DGT 2500 Official FIDE</div>
+            <div class="ap6text2">Հոբբի</div>
+            <div class="ap6gin">41,500 ֏ </div>
+            <div class="apavelacum">
+                <img class="apkarzina" src="img/apkarzina.png" >
+                <div class="textavelacum"> Ավելացնել</div>
+            </div>
+        </div>
+        <div class="ap7">
+            <img class="imgap7" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIe7FcV4vlF1Rft3r2QwkBB5U0VI64gNwRScN-6b4QIztUDQjc" >
+            <div class="ap7text1">Մագնիսական ծալովի շախմատ և շաշկի (միջին) </div>
+            <div class="ap7text2">Գրասենյակային, Հոբբի</div>
+            <div class="ap7gin">9900 ֏ </div>
+            <div class="apavelacum">
+                <img class="apkarzina" src="img/apkarzina.png" >
+                <div class="textavelacum"> Ավելացնել</div>
+            </div>
+        </div>
+        <div class="ap8">
+            <img class="imgap8" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREDY93Ovddv2q99ht4h8bWWyz2FtGKr5J8qYvls5B5uYLTqiVk" >
+            <div class="ap8text1">Շախմատային ժամաչափ DGT 1002 Bonus	</div>
+            <div class="ap8text2">Հոբբի</div>
+            <div class="ap8gin">15,900 ֏ </div>
+            <div class="apavelacum">
+                <img class="apkarzina" src="img/apkarzina.png" >
+                <div class="textavelacum"> Ավելացնել</div>
+            </div>
+        </div>
+        <div class="ap9">
+            <img class="imgap9" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRHhNYoVPdZrR4XuiHUUYYK7320rypr4eNA4VIe_VdZ0jJjG1Q" >
+            <div class="ap9text1">Կոնստրուկտոր և երաժշտական արկղ «Stagecoach Rolling»</div>
+            <div class="ap9text2">Ապրիլի 7, Երեխաների համար	</div>
+            <div class="ap9gin">21,500 ֏</div>
+            <div class="apavelacum">
+                <img class="apkarzina" src="img/apkarzina.png" >
+                <div class="textavelacum"> Ավելացնել</div>
+            </div>
+        </div>
+        <div class="ap10">
+            <img class="imgap10" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR88LyVZq-owhGEwgNzSrcShbzJrvlp2I6XO047c0_aRvYmgM7T" >
+            <div class="ap10text1">Կոնստրուկտոր QBRIX KIDS «Ջրասամույր»	</div>
+            <div class="ap10text2">Երեխաների համար, Փազլներ	</div>
+            <div class="ap10gin">2900 ֏</div>
+            <div class="apavelacum">
+                <img class="apkarzina" src="img/apkarzina.png" >
+                <div class="textavelacum"> Ավելացնել</div>
+            </div>
+        </div>
+        <div class="ap11">
+            <img class="imgap11" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRZ8lcl7bBjVB_Quou561kCr1bXJjAZhvo1SdX1B3sAEe2p0T1" >
+            <div class="ap11text1">Կոնստրուկտոր QBRIX KIDS «Պինգվին»</div>
+            <div class="ap11text2">Երեխաների համար, Փազլներ	</div>
+            <div class="ap11gin">2900 ֏</div>
+            <div class="apavelacum">
+                <img class="apkarzina" src="img/apkarzina.png" >
+                <div class="textavelacum"> Ավելացնել</div>
+            </div>
+        </div>
+        <div class="ap12">
+            <img class="imgap12" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9l-ApjaR051IscN2KsirFG657HqO1UvGI5jXQqlPzIITSiCER" >
+            <div class="ap12text1">Կոնստրուկտոր QBRIX KIDS «Պանդա»</div>
+            <div class="ap12text2">Երեխաների համար, Փազլներ	</div>
+            <div class="ap12gin">2900 ֏</div>
+            <div class="apavelacum">
+                <img class="apkarzina" src="img/apkarzina.png" >
+                <div class="textavelacum"> Ավելացնել</div>
+            </div>
+        </div>
+    </div>
 `
