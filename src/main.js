@@ -1,24 +1,27 @@
 import './style.css'
-import javascriptLogo from './javascript.svg'
-import viteLogo from '/vite.svg'
-import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
-  <div>
-    <a href="https://vite.dev" target="_blank">
-      <img src="${viteLogo}" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
-    </a>
-    <h1>Hello Vite!</h1>
-    <div class="card">
-      <button id="counter" type="button"></button>
-    </div>
-    <p class="read-the-docs">
-      Click on the Vite logo to learn more
-    </p>
-  </div>
+   <header>
+        <div class="name1">
+            <img  class="img1" src="img/images.png" alt="">
+        </div>
+        <div class="kotalog">
+            <img class="img2" src="img/cube.png" alt="">
+            <p class="bar1">Կատալոգ</p>
+            <img class="slaq1" src="img/slaq.png" alt="">
+        </div>
+        <div class="search1">
+            <input class="search1" type="search" placeholder="Փնտրել նվեր ">
+        </div>
+        <div class="sirt1">
+            <img class="sirt" src="img/sirt.png" alt="">
+        </div>
+        <div class="karzina1">
+            <img class="karzina" src="img/korzina (1).png" alt="">
+        </div>
+        <div class="mutq1">
+            <img class="mutq" src="img/mutq.jpg" alt="">
+            <a class="bar2" href="mutq/mutq.html">Մուտք</a>
+        </div> 
+    </header>
 `
-
-setupCounter(document.querySelector('#counter'))
