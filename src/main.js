@@ -200,4 +200,10 @@ document.querySelector('#app').innerHTML = `
             </div>
         </div>
     </div>
+
+
+    <div class="maps1">
+        <iframe class="mapss1"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.14550865071!2d44.514544199999996!3d40.18357509999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd34bb5ff85b%3A0x72e82f7616dc3049!2sWant.am%20%E2%80%93%20creative%20gift%20store!5e0!3m2!1sen!2sam!4v1742988901772!5m2!1sen!2sam" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe class="vidio1" width="560" height="315" src="https://www.youtube.com/embed/E6I-MU431A0?si=xkGR4YJVWY1__q3C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
 `
