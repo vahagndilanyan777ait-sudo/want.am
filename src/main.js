@@ -24,4 +24,31 @@ document.querySelector('#app').innerHTML = `
             <a class="bar2" href="mutq/mutq.html">Մուտք</a>
         </div> 
     </header>
+
+     <div class="baj1">
+        <div class="bajin1">
+            <img class="bajinn1" src="img/bajin1.jpg" alt="">
+            <p class="baj1bar">Երեխաների համար</p>
+            <h2 class="baj1bar2">Հարրի Փոթերի պարագաներ</h2>
+            <div class="hover1"></div>
+        </div>
+        <div class="bajin2">
+            <img class="bajinn2" src="img/hobi.jpg" alt="">
+            <p class="baj2bar">Հոբբի</p>
+            <h2 class="baj2bar2">Ugears</h2>
+            <div class="hover2"></div>
+        </div>
+        <div class="bajin3">
+           <img class="bajinn3" src="img/astxaditak.jpg" alt="">
+           <p class="baj3bar">Օպտիկա</p>
+            <h2 class="baj3bar2">Աստղադիտակներ</h2>
+            <div class="hover3"></div>
+        </div>
+        <div class="bajin4">
+            <img class="bajinn4" src="img/kananc.jpg" alt="">
+            <p class="baj4bar">Կանանց համար</p>
+             <h2 class="baj4bar2">Լուսամփոփներ</h2>
+             <div class="hover4"></div>
+         </div>
+    </div>
 `
