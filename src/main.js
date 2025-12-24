@@ -206,4 +206,37 @@ document.querySelector('#app').innerHTML = `
         <iframe class="mapss1"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.14550865071!2d44.514544199999996!3d40.18357509999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd34bb5ff85b%3A0x72e82f7616dc3049!2sWant.am%20%E2%80%93%20creative%20gift%20store!5e0!3m2!1sen!2sam!4v1742988901772!5m2!1sen!2sam" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <iframe class="vidio1" width="560" height="315" src="https://www.youtube.com/embed/E6I-MU431A0?si=xkGR4YJVWY1__q3C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
+
+
+
+    <footer>
+        <div class="foot1">
+            <img class="imgf" src="img/images.png" alt="">
+            <p class="bar1f">Պատվերներն ընդունվում են ժամը 10:00-18:00</p>
+            <p class="bar2f">Երևան, Հյուսիսային պողոտա 6/2, խանութ-</br>սրահը բաց է ժամը 10:00-22:00</p>
+            <a class="bar3f" href="">info@want.am</a>
+            <a class="bar4f" href="">094-092-092</a>
+                <div class="syun2">
+                    <h2>Մեր սոցցանցերը</h2>
+                    <a class="inst" href="">Instagram</a>
+                    <a class="facebook" href="">Facebook</a>
+                    <a class="tele" href="">Telegram</a>
+                    <a class="vk" href="">VK (дно)</a>
+                </div>
+                <div class="syun3">
+                    <h2>Օգտակար լինքեր</h2> 
+                    <a class="gaxtni" href="">Գաղտնիության քաղաքականություն</a>
+                    <a class="araqum1" href="">Առաքում</a>
+                    <a class="kontakt" href="">Կոնտակտներ</a>
+                    <a class="navigator" href="">Яндекс.Навигатор</a>
+                    <a class="maps" href="">Google Maps</a>
+                </div>
+                <div class="syun4">
+                    <h2>Անձնական էջ</h2> 
+                    <a class="imej" href="">Իմ էջը</a>
+                    <a class="andznakan" href="">Առանձնացված</a>
+                    <a class="paymanner" href="">Դրույթներ և պայմաններ</a>
+                </div>
+        </div>
+    </footer>
 `
